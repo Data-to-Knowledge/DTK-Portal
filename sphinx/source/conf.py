@@ -52,21 +52,21 @@ extensions = [
     # 'sphinx.ext.ifconfig',
     # 'sphinx.ext.viewcode',
     # 'sphinx.ext.githubpages',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.napoleon',
+    # 'sphinx.ext.autosummary',
+    # 'sphinx.ext.napoleon',
     # 'sphinx_gallery.gen_gallery',
 	#'rst2pdf.pdfbuilder',
-    'numpydoc',
+    # 'numpydoc',
 
     # IPython console
-    'IPython.sphinxext.ipython_console_highlighting',
-    'IPython.sphinxext.ipython_directive'
+    # 'IPython.sphinxext.ipython_console_highlighting',
+    # 'IPython.sphinxext.ipython_directive'
 
     # Enable Google Analytics ( requires: https://pypi.python.org/pypi/sphinxcontrib-googleanalytics )
     #'sphinxcontrib.googleanalytics',
 ]
 
-autosummary_generate = True
+# autosummary_generate = True
 
 # Sphinx gallery configuration
 # sphinx_gallery_conf = {

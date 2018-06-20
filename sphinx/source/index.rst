@@ -14,6 +14,12 @@ Project themes
 
 .. toctree::
    :maxdepth: 2
+   :caption: Training
+
+   python_course
+
+.. toctree::
+   :maxdepth: 2
    :caption: License
 
    license-terms

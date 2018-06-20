@@ -19,7 +19,6 @@
 #
 import os
 import sys
-import eto
 
 project_name = 'DTK-Portal'
 

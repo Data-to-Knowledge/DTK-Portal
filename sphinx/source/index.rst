@@ -5,6 +5,11 @@ The `Data-to-Knowledge (DTK) Portal <https://dtk-portal.readthedocs.io>`_ is a s
 
 Project themes
 --------------
+.. toctree::
+   :maxdepth: 2
+   :caption: How to contribute
+
+   atmosphere
 
 .. toctree::
    :maxdepth: 2

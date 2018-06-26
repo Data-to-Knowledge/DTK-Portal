@@ -9,7 +9,7 @@ Project themes
    :maxdepth: 2
    :caption: How to contribute
 
-   atmosphere
+   contribute
 
 .. toctree::
    :maxdepth: 2

@@ -1,7 +1,7 @@
 Atmosphere
 ===============
 
-This section will lists the projects that have a primary emphasis on atmospheric science.
+This section lists the projects that have a primary emphasis on atmospheric science.
 
 ETo
 ------------

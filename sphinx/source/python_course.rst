@@ -12,4 +12,3 @@ buckets: **the must haves** and **the nice to haves**. The course if far from co
 better for people to get cracking, and fill in the gaps as they develop their skills.
 
     **Expected course duration: 1-2 days**
-

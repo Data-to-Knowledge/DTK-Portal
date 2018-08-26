@@ -19,6 +19,12 @@ Project themes
    atmosphere
 
 .. toctree::
+  :maxdepth: 2
+  :caption: Programming tools
+
+  data_access
+
+.. toctree::
    :maxdepth: 2
    :caption: Training
 

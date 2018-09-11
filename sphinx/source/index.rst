@@ -20,7 +20,7 @@ Project themes
 
 .. toctree::
   :maxdepth: 2
-  :caption: Programming tools
+  :caption: Other tools
 
   data_access
 

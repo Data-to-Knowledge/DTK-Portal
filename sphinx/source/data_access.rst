@@ -9,7 +9,7 @@ The `pyhydllp <https://pyhydllp.readthedocs.io>`_  project was created to develo
 
 hilltop-py
 ----------
-The `hilltop-py <https://github.com/mullenkamp/hilltop-py>`_ project was created to create python wrappers for the various programmatic APIs of `Hilltop <http://www.hilltop.co.nz/>`_. The existing access methods are via the windows COM, directly via the new Hilltop Python API, and via the Hilltop web service.
+The `hilltop-py <https://hilltop-py.readthedocs.io>`_ project was created to create python wrappers for the various programmatic APIs of `Hilltop <http://www.hilltop.co.nz/>`_. The existing access methods are via the windows COM, directly via the new Hilltop Python API, and via the Hilltop web service.
 
 pyhydrotel
 ----------

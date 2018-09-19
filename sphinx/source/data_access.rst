@@ -5,7 +5,7 @@ This section lists the projects that have a primary emphasis on data access to d
 
 pyhydllp
 ------------
-The `pyhydllp <https://github.com/mullenkamp/pyhydllp>`_  project was created to develop a Python API to the Hydstra program (`Kisters <http://kisters.com.au>`_) via the hydllp.dll provided by Hydstra. It includes many of the functions for accessing time series data in Hydstra.
+The `pyhydllp <https://pyhydllp.readthedocs.io>`_  project was created to develop a Python API to the Hydstra program (`Kisters <http://kisters.com.au>`_) via the hydllp.dll provided by Hydstra. It includes many of the functions for accessing time series data in Hydstra.
 
 hilltop-py
 ----------

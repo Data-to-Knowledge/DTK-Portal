@@ -1,6 +1,9 @@
 Python for Environmental Scientists
 =====================================
 
+Hydrosoc 2018 Python/Pandas Fundamentals
+-----------------------------------------
+The `Hydrosoc 2018 Python workshop <https://hydrosoc-python-2018.readthedocs.io>`_ includes both a basic python course for absolute beginners and a larger section on handling of tabular data and the associated processing and analysis tools. The course primarily uses the toolset contained within the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_. This includes reading/writing data, indexing, reshaping, computations, joining tables, time series handling, and visualization.
 
 The Environmental Scientist’s Introduction to Python
 ------------------------------------------------------

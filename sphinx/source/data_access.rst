@@ -3,6 +3,10 @@ Data Access Tools
 
 This section lists the projects that have a primary emphasis on data access to data systems.
 
+nasadap
+-------
+The `nasadap <https://github.com/mullenkamp/nasadap>`_ package was created to provide easy access to NASA satellite data via their OPeNDAP servers. At the moment, only TRMM and GPM precipitation mission data are available, but others like MODIS will be added in time.
+
 pyhydllp
 ------------
 The `pyhydllp <https://pyhydllp.readthedocs.io>`_  project was created to develop a Python API to the Hydstra program (`Kisters <http://kisters.com.au>`_) via the hydllp.dll provided by Hydstra. It includes many of the functions for accessing time series data in Hydstra.

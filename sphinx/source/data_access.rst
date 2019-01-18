@@ -5,7 +5,7 @@ This section lists the projects that have a primary emphasis on data access to d
 
 nasadap
 -------
-The `nasadap <https://github.com/mullenkamp/nasadap>`_ package was created to provide easy access to NASA satellite data via their OPeNDAP servers. At the moment, only TRMM and GPM precipitation mission data are available, but others like MODIS will be added in time.
+The `nasadap <https://github.com/mullenkamp/nasadap>`_ package was created to provide easy access to NASA satellite data via their OPeNDAP servers and convert them to `xarray <http://xarray.pydata.org>`_ datasets. At the moment, only precipitation data from the TRMM and GPM missions are available. It uses the python package `pydap <https://pydap.readthedocs.io>`_ to access the OPeNDAP servers.
 
 pyhydllp
 ------------
